@@ -1,0 +1,6 @@
+*{
+    box-sizing: border-box;
+}
+.banner-img{
+    background-image: url(logo.jpg);
+}
